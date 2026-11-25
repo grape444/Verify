@@ -1,0 +1,201 @@
+{
+  "purpose": "연습 답안 7개 기대 판정 v2 (11/20: Terra 시험 결과 검토 후 루브릭 문구대로 5곳 수정, 루브릭 v1.2)",
+  "rubric_version": "v1.2",
+  "note": "area_scores는 감점 전, total은 감점 후(0 하한). 판정 허용 오차: 점수 ±10점이면 정상 범위",
+  "answers": [
+    {
+      "answer_id": "PR-MKT-01",
+      "job": "MKT",
+      "expected_status": "scored",
+      "expected_total": 70,
+      "expected_area_scores": {
+        "A": 20,
+        "B": 20,
+        "C": 20,
+        "D": 10
+      },
+      "expected_checkpoints": {
+        "A1": "충족",
+        "A2": "충족",
+        "A3": "충족",
+        "A4": "미충족",
+        "A5": "미충족",
+        "B1": "충족",
+        "B2": "충족",
+        "B3": "부분",
+        "B4": "미충족",
+        "C1": "충족",
+        "C2": "부분",
+        "C3": "충족",
+        "D1": "충족",
+        "D2": "충족",
+        "D3": "충족"
+      },
+      "expected_penalties": []
+    },
+    {
+      "answer_id": "PR-MKT-02",
+      "job": "MKT",
+      "expected_status": "scored",
+      "expected_total": 0,
+      "expected_area_scores": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 6
+      },
+      "expected_checkpoints": {
+        "A1": "미충족",
+        "A2": "미충족",
+        "A3": "미충족",
+        "A4": "미충족",
+        "A5": "미충족",
+        "B1": "미충족",
+        "B2": "미충족",
+        "B3": "미충족",
+        "B4": "미충족",
+        "C1": "미충족",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "충족",
+        "D2": "미충족",
+        "D3": "부분"
+      },
+      "expected_penalties": [
+        "P2",
+        "P4"
+      ]
+    },
+    {
+      "answer_id": "PR-MD-01",
+      "job": "MD",
+      "expected_status": "scored",
+      "expected_total": 63,
+      "expected_area_scores": {
+        "A": 19,
+        "B": 26,
+        "C": 8,
+        "D": 10
+      },
+      "expected_checkpoints": {
+        "A1": "충족",
+        "A2": "미충족",
+        "A3": "충족",
+        "A4": "부분",
+        "B1": "충족",
+        "B2": "충족",
+        "B3": "충족",
+        "B4": "미충족",
+        "B5": "미충족",
+        "C1": "충족",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "충족",
+        "D2": "충족",
+        "D3": "충족"
+      },
+      "expected_penalties": []
+    },
+    {
+      "answer_id": "PR-MD-02",
+      "job": "MD",
+      "expected_status": "scored",
+      "expected_total": 15,
+      "expected_area_scores": {
+        "A": 4,
+        "B": 10,
+        "C": 0,
+        "D": 6
+      },
+      "expected_checkpoints": {
+        "A1": "미충족",
+        "A2": "부분",
+        "A3": "미충족",
+        "A4": "미충족",
+        "B1": "미충족",
+        "B2": "부분",
+        "B3": "미충족",
+        "B4": "충족",
+        "B5": "미충족",
+        "C1": "미충족",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "충족",
+        "D2": "미충족",
+        "D3": "부분"
+      },
+      "expected_penalties": [
+        "P5"
+      ]
+    },
+    {
+      "answer_id": "PR-HR-01",
+      "job": "HR",
+      "expected_status": "scored",
+      "expected_total": 66,
+      "expected_area_scores": {
+        "A": 18,
+        "B": 16,
+        "C": 17,
+        "D": 15
+      },
+      "expected_checkpoints": {
+        "A1": "충족",
+        "A2": "충족",
+        "A3": "충족",
+        "A4": "미충족",
+        "A5": "미충족",
+        "B1": "충족",
+        "B2": "충족",
+        "B3": "미충족",
+        "B4": "미충족",
+        "C1": "충족",
+        "C2": "미충족",
+        "C3": "충족",
+        "D1": "충족",
+        "D2": "충족"
+      },
+      "expected_penalties": []
+    },
+    {
+      "answer_id": "PR-HR-02",
+      "job": "HR",
+      "expected_status": "scored",
+      "expected_total": 16,
+      "expected_area_scores": {
+        "A": 9,
+        "B": 4,
+        "C": 0,
+        "D": 8
+      },
+      "expected_checkpoints": {
+        "A1": "충족",
+        "A2": "미충족",
+        "A3": "부분",
+        "A4": "미충족",
+        "A5": "미충족",
+        "B1": "부분",
+        "B2": "미충족",
+        "B3": "미충족",
+        "B4": "미충족",
+        "C1": "미충족",
+        "C2": "미충족",
+        "C3": "미충족",
+        "D1": "부분",
+        "D2": "부분"
+      },
+      "expected_penalties": [
+        "P2"
+      ]
+    },
+    {
+      "answer_id": "PR-RETRY",
+      "job": "HR",
+      "expected_status": "retry",
+      "expected_total": null,
+      "expected_area_scores": null,
+      "expected_checkpoints": {},
+      "expected_penalties": []
+    }
+  ]
+}
